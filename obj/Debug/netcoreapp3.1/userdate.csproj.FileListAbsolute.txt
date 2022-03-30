@@ -1,0 +1,13 @@
+/Users/janabojarova/Projects/userdate/bin/Debug/netcoreapp3.1/userdate.deps.json
+/Users/janabojarova/Projects/userdate/bin/Debug/netcoreapp3.1/userdate.runtimeconfig.json
+/Users/janabojarova/Projects/userdate/bin/Debug/netcoreapp3.1/userdate.runtimeconfig.dev.json
+/Users/janabojarova/Projects/userdate/bin/Debug/netcoreapp3.1/userdate.dll
+/Users/janabojarova/Projects/userdate/bin/Debug/netcoreapp3.1/userdate.pdb
+/Users/janabojarova/Projects/userdate/obj/Debug/netcoreapp3.1/userdate.csproj.AssemblyReference.cache
+/Users/janabojarova/Projects/userdate/obj/Debug/netcoreapp3.1/userdate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/janabojarova/Projects/userdate/obj/Debug/netcoreapp3.1/userdate.AssemblyInfoInputs.cache
+/Users/janabojarova/Projects/userdate/obj/Debug/netcoreapp3.1/userdate.AssemblyInfo.cs
+/Users/janabojarova/Projects/userdate/obj/Debug/netcoreapp3.1/userdate.csproj.CoreCompileInputs.cache
+/Users/janabojarova/Projects/userdate/obj/Debug/netcoreapp3.1/userdate.dll
+/Users/janabojarova/Projects/userdate/obj/Debug/netcoreapp3.1/userdate.pdb
+/Users/janabojarova/Projects/userdate/obj/Debug/netcoreapp3.1/userdate.genruntimeconfig.cache
